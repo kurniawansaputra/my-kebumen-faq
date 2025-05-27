@@ -7,7 +7,7 @@
   {
     "id": 2,
     "question": "Layanan apa saja yang tersedia di aplikasi MyKebumen?",
-    "answer": "Aplikasi ini menyediakan berbagai layanan seperti MyPresence (absensi ASN berbasis lokasi dan wajah), MyLetter (surat menyurat digital), MyKinerja (pengukuran kinerja ASN), informasi dan berita seputar Kebumen, Lapor Cepat dan Pengaduan Masyarakat, Survey Kepuasan Masyarakat (SKM), serta layanan publik lainnya."
+    "answer": "Aplikasi ini menyediakan berbagai layanan seperti MyPresence (presensi ASN dan BLUD berbasis lokasi dan wajah), MyLetter (surat menyurat digital), MyKinerja (pengukuran kinerja ASN), informasi dan berita seputar Kebumen, Lapor Cepat dan Pengaduan Masyarakat, Survey Kepuasan Masyarakat (SKM), serta layanan publik lainnya."
   },
   {
     "id": 3,
@@ -24,7 +24,6 @@
     "question": "Apakah data pribadi saya aman di aplikasi ini?",
     "answer": "Ya. Aplikasi MyKebumen menggunakan sistem keamanan yang terintegrasi dengan otentikasi dan enkripsi, termasuk verifikasi wajah dan lokasi untuk fitur MyPresence."
   },
-  ,
   {
     "id": 6,
     "question": "Bagaimana cara login untuk ASN dan BLUD?",
@@ -46,3 +45,4 @@
     "answer": "Ya. Aplikasi MyKebumen terus diperbarui untuk menyesuaikan kebutuhan pelayanan publik dan perkembangan teknologi digital di lingkungan pemerintahan."
   }
 ]
+
