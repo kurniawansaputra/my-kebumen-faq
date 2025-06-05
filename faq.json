@@ -2,22 +2,22 @@
   {
     "id": 1,
     "question": "Apa itu aplikasi MyKebumen?",
-    "answer": "MyKebumen adalah aplikasi layanan digital resmi dari Pemerintah Kabupaten Kebumen yang dirancang untuk memudahkan Aparatur Sipil Negara (ASN) dan masyarakat dalam mengakses berbagai layanan pemerintahan dan publik secara praktis dan efisien."
+    "answer": "MyKebumen adalah aplikasi resmi dari Pemkab Kebumen untuk memudahkan ASN dan masyarakat mengakses layanan pemerintah dan publik secara digital."
   },
   {
     "id": 2,
-    "question": "Layanan apa saja yang tersedia di aplikasi MyKebumen?",
-    "answer": "Aplikasi ini menyediakan berbagai layanan seperti MyPresence (presensi ASN dan BLUD berbasis lokasi dan wajah), MyLetter (surat menyurat digital), MyKinerja (pengukuran kinerja ASN), informasi dan berita seputar Kebumen, Lapor Cepat dan Pengaduan Masyarakat, Survey Kepuasan Masyarakat (SKM), serta layanan publik lainnya."
+    "question": "Siapa saja yang bisa menggunakan aplikasi MyKebumen?",
+    "answer": "ASN dan masyarakat bisa menggunakan MyKebumen sesuai kebutuhan masing-masing, baik untuk layanan publik maupun administrasi ASN."
   },
   {
-    "id": 3,
-    "question": "Siapa saja yang bisa menggunakan aplikasi MyKebumen?",
-    "answer": "Aplikasi ini dapat digunakan oleh ASN Kabupaten Kebumen untuk keperluan administrasi dan presensi dan masyarakat umum untuk mengakses informasi publik, melakukan pelaporan, dan memanfaatkan layanan sosial."
+   "id": 3,
+    "question": "Layanan apa saja yang tersedia di aplikasi MyKebumen?",
+    "answer": "MyPresence (presensi ASN dan BLUD berbasis lokasi dan wajah), MyLetter (surat menyurat digital), MyKinerja (pengukuran kinerja ASN), informasi dan berita seputar Kebumen, Lapor Cepat Bupati, Survey Kepuasan Masyarakat (SKM), serta layanan publik lainnya."
   },
   {
     "id": 4,
     "question": "Apa itu program Desa Melek Internet (DESMELI) dalam aplikasi ini?",
-    "answer": "DESMELI adalah program yang bertujuan untuk mendorong literasi digital di tingkat desa, sehingga pemerintah desa dan masyarakat dapat mengakses informasi secara terbuka, mengelola data desa secara digital, meningkatkan partisipasi masyarakat dalam pembangunan desa."
+    "answer": "Program yang bertujuan untuk mendorong literasi digital di tingkat desa, sehingga Pemdes dan masyarakat dapat mengakses informasi secara terbuka, mengelola data desa secara digital, meningkatkan partisipasi masyarakat dalam pembangunan desa."
   },
   {
     "id": 5,
@@ -27,7 +27,7 @@
   {
     "id": 6,
     "question": "Bagaimana cara login untuk ASN dan BLUD?",
-    "answer": "ASN dan BLUD dapat login menggunakan akun resmi yang telah didaftarkan oleh instansi atau OPD masing-masing."
+    "answer": "ASN dan tenaga BLUD dapat login menggunakan akun resmi masing-masing ASN dan tenaga BLUD."
   },
   {
     "id": 7,
@@ -37,7 +37,7 @@
   {
     "id": 8,
     "question": "Apakah aplikasi ini bisa digunakan offline?",
-    "answer": "Beberapa fitur membutuhkan koneksi internet untuk sinkronisasi dan pengiriman data. Namun, informasi yang sudah disimpan di perangkat dapat tetap diakses saat offline."
+    "answer": "Tidak. Akses MyKebumen membutuhkan koneksi internet untuk sinkronisasi dan pengiriman data."
   },
   {
     "id": 9,
